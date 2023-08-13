@@ -2,3 +2,4 @@
 
 This is a real-time chat application written in pure PHP/MYSQL.
 
+project abandoned 
